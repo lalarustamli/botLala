@@ -1,0 +1,5 @@
+*.wpr
+__pycache__/
+app/delete.py
+credentials.py
+

@@ -1,0 +1,11 @@
+Flask==1.0.2
+gunicorn==19.9.0
+gunicorn==19.9.0
+requests==2.21.0
+pymongo==3.7.2
+wit==5.1.0
+numpy==1.16.2
+zeep==3.4.0
+dialogflow==0.7.2
+google-api-core==1.14.3
+
